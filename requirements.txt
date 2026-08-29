@@ -1,0 +1,9 @@
+contextily
+geopandas
+matplotlib
+numpy
+pandas
+pvlib
+pyproj
+pyvista
+shapely
