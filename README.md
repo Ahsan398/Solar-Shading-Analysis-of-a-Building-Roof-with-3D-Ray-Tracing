@@ -5,6 +5,10 @@ This project calculates annual solar shading on the roof of a selected building.
 
 It uses 3D building data, tree data, solar position calculations, and ray tracing. The result shows whether roof sample points are shaded or sunlit at different times of the year.
 
+## Python Version
+
+This project was developed with Python 3.13.7.
+
 ## Workflow
 
 Run the notebooks in this order:
